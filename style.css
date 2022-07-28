@@ -1,0 +1,24 @@
+.body_background
+{
+background-image: url("istockphoto-1003992828-612x612.jpg");
+background-position: center;
+background-size: cover;
+}
+
+h1
+{
+    color: aqua;
+    font-size: 80px;
+}
+
+#myCanvas
+{
+border-width: 10px;
+background-color: yellow;
+border-style: dotted;
+}
+
+span
+{
+font-size: 30px;
+}
